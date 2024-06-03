@@ -1,14 +1,27 @@
 # project-7-calculator
 
+(1/4)  project description - 
+Project Overview:
+The Advanced Calculator Application is designed to provide users with a comprehensive tool for performing a wide range of mathematical operations. This application will cater to basic arithmetic calculations, advanced mathematical functions, and support for both graphical and statistical analysis. The aim is to create an intuitive and user-friendly interface that can serve both casual users and professionals who require complex calculations.
 
-# here below live link view of this projects
+Project Goals:
 
+Develop a versatile calculator that can handle basic arithmetic, scientific, and statistical operations.
+Create an intuitive and easy-to-navigate user interface.
+Ensure accuracy and efficiency in all calculations.
+Incorporate graphical capabilities for plotting functions and data visualization.
+Provide additional tools such as unit conversion, equation solving, and matrix operations.
+Ensure cross-platform compatibility (web, mobile, and desktop).
+
+
+(2/4)  live link of projects - 
 https://rushikeshborude.github.io/project-7-calculator/
 
+(3/4)  Used Technology - 
+Frontend: HTML, CSS, JavaScript, React.js (for web version)
 
 
-# this is a images of projects 
-
+(4/4)  images of projects - 
 
 ![Screenshot (13898)](https://github.com/RushikeshBorude/project-7-calculator/assets/86228914/683f2a27-bb1f-4de7-9567-e2babaee2c86)
 
